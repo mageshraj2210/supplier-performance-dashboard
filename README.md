@@ -35,8 +35,7 @@ The dashboard improves supplier performance monitoring, saves reporting time, in
 * `README.md` – Project documentation
 
 Author: magesh raj
-**Contact:** [Email or LinkedIn]
-
+Contact:www.linkedin.com/in/magesh-raj09
  #Excel`, #PowerPivot, #Supply Chain, #Supplier Dashboard, #Procurement Analytics
 
 ---
